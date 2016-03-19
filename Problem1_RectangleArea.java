@@ -1,7 +1,7 @@
 package JavaSyntax;
 
 import java.util.Scanner;
-
+//test
 public class Problem1_RectangleArea {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
